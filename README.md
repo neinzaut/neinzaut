@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ches!</h1>
-<h3 align="center">A second-year computer science from De La Salle University - Dasmarinas</h3>
+<h3 align="center">A third-year Computer Science student from De La Salle University - Dasmarinas</h3>
 
 - 🔭 I’m currently working on **my developer portfolio and other projects aligned with my interest in UI/UX!**
 
-- 🌱 I’m currently learning **JavaScript, Machine Learning, and SQL.**
+- 🌱 I’m currently learning **JavaScript and CSS.**
 
-- 📫 How to reach me **fmatuazon@gmail.com**
+- 📫 How to reach me **fmatuazonwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
