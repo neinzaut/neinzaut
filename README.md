@@ -8,6 +8,5 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/fmatuazon" target="_blank"><img src="https://github.com/neinzaut/neinzaut/blob/updated-bio/linkedin.png" alt="LinkedIn" height="40px" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://neinzaut.github.io/" target="_blank"><img src="https://github.com/neinzaut/neinzaut/blob/updated-bio/portfolio.png" alt="Portfolio" height="40px" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://neinzaut.vercel.app/" target="_blank"><img src="https://github.com/neinzaut/neinzaut/blob/updated-bio/portfolio.png" alt="Portfolio" height="40px" /></a>
 </p>
-
