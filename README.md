@@ -17,7 +17,7 @@
 </p>
 <br>
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px; overflow: hidden; max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=neinzaut&theme=slateorange&show_icons=true&hide_border=true&count_private=true" style="height: 140px; flex-shrink: 1;" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=neinzaut&theme=slateorange&show_icons=true&hide_border=true&count_private=true" style="height: 140px; flex-shrink: 1;" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neinzaut&theme=slateorange&hide_border=true" style="height: 140px; flex-shrink: 1;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neinzaut&theme=slateorange&show_icons=true&hide_border=true&layout=compact" style="height: 140px; flex-shrink: 1;" />
 </div>
